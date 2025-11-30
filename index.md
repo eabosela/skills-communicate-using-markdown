@@ -4,3 +4,5 @@
 #### Header with four hashtags
 ##### Header with five hashtags
 ###### Header with six hashtags
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
